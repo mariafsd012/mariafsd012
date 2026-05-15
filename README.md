@@ -15,9 +15,9 @@ I am a Computer Science student at the State University of Rio Grande do Norte (
 ###
 
 <p align="left">
-✨ Creating bugs since I started coding<br>
-📚 Currently learning Front-end development and improving my programming skills<br>
-🎯 Goal: Become a skilled Front-end Developer and build impactful web applications
+✨ Passionate about design and problem-solving.<br>
+📚 Currently learning Front-end development and improving my programming skills Full Stack.<br>
+🎯 Become a skilled Full Stack Developer and build impactful web applications
 </p>
 
 ###
